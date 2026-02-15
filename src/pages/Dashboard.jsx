@@ -15,9 +15,9 @@ export default function Dashboard() {
       <div className="grid2">
         <Card title="Recent Activity">
           <ul>
-            <li>Google updated drive</li>
-            <li>Amazon added round</li>
-            <li>TCS uploaded results</li>
+            <li>Company updated drive</li>
+            <li>New round added</li>
+            <li>Results uploaded</li>
           </ul>
         </Card>
 
